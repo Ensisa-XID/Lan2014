@@ -1,0 +1,64 @@
+body
+{
+font-family: Trebuchet;
+font-size: large;
+margin: auto;
+background-color: #046380;
+width: 80%;
+}
+
+section
+{
+background-color: white;
+}
+
+header
+{
+text-align: center;
+background-color: white;
+}
+
+table
+{
+padding: 10px;
+margin: auto;
+}
+
+#cellule
+{
+border-radius: 10px;
+border: 5px #046380 ridge;
+width: 460px;
+text-align: justify;
+}
+
+div
+{
+border-radius: 10px;
+border: 5px #046380 ridge;
+width: 80%;
+margin: auto;
+margin-bottom: 30px;
+font-family: impact;
+font-size: x-large;
+}
+
+#footer_p
+{
+text-align: center;
+background-color: white;
+}
+
+#footer_s
+{
+border-radius: 10px;
+border: 5px #046380 ridge;
+width: 80%;
+margin: auto;
+margin-bottom: 30px;
+}
+
+#liste
+{
+margin-right: 10px;
+}
